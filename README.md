@@ -15,10 +15,9 @@ I'm not saying that it's the best solutions to set your database up to store emo
 
 # QUESTIONS 
 
-why UTF8MB4 ? [[read this|http://stackoverflow.com/questions/30074492/what-is-the-difference-between-utf8mb4-and-utf8-charsets-in-mysql]]
+why UTF8MB4 ? [Read this](http://stackoverflow.com/questions/30074492/what-is-the-difference-between-utf8mb4-and-utf8-charsets-in-mysql])
 
-
-why utf8mb4_unicode_ci ? [[read this|http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci/766996#766996]]
+why utf8mb4_unicode_ci ? [Read this](http://stackoverflow.com/questions/766809/whats-the-difference-between-utf8-general-ci-and-utf8-unicode-ci/766996#7669960)
 
 
 If you still have trouble to store emojis / chinese characters give a look at your mysql files over /etc/mysql
